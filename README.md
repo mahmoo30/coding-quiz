@@ -1,5 +1,6 @@
 # coding-quiz
-Timed Coding Quiz
+## Timed Coding Quiz
+Test Your Javascript Knowledge!
 
 
 # User Story
