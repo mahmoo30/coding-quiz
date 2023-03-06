@@ -1,0 +1,23 @@
+* {
+    background-color: lightgrey;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+a:link{
+    color:blue;
+  }
+  a:visited{
+    color:purple;
+  }
+  a:hover{
+    color:orange;
+  }
+  a:focus{
+    color:green;
+  }
+  a:active{
+    color:red;
+  }
+  
