@@ -1,21 +1,12 @@
-# coding-quiz
-## Timed Coding Quiz
-Test Your Javascript Knowledge!
+# Timed Javascript Quiz
+## Test Your Javascript Knowledge!
 
+## Details
+Test your Javascript fundamentals knowledge by taking this timed quiz. 
+You have 60 seconds to answer 5 questions. 
+Each correct answer is worth 1 point, and each incorrect answer decreases your time by 10 seconds.
 
-# User Story
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-# Acceptance Criteria
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
+## How it Works
+When you press the start button, the timer starts and you are presented with a question. 
+When that question is answered, you will be presented with another question until there are no remaining questions or time has run out.
+When the game ends, you will be able to see your finals score and can enter your initials to submit it and view the scoreboard.
