@@ -2,7 +2,7 @@
 ## Test Your Javascript Knowledge!
 
 ## Details
-Test your Javascript fundamentals knowledge by taking this timed quiz. 
+Test your Javascript fundamentals knowledge by taking this timed quiz. <br>
 You have 60 seconds to answer 5 questions. 
 Each correct answer is worth 1 point, and each incorrect answer decreases your time by 10 seconds.
 
