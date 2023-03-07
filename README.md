@@ -37,3 +37,5 @@ https://github.com/mmeii/code-quiz
 
 ## Deployed Website:
 https://mahmoo30.github.io/coding-quiz/
+
+![](https://github.com/mahmoo30/coding-quiz/blob/main/assets/webpage.gif)
